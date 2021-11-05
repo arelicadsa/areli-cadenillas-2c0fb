@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Areli Cadenillas.
+    title: Areli Cadenillas
     subtitle: Marketing | User Experience
     actions:
       - label: Contact Me
