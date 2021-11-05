@@ -56,7 +56,7 @@ sections:
     title: Mis servicios
     subtitle: Lo que hago
     features:
-      - title: Content Creation
+      - title: Plan de marketing
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
