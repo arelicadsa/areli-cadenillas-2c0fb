@@ -96,7 +96,7 @@ sections:
           I am studying and practicing to grow up my UI skills. Soon you will
           see my projects here. Meanwhile, we can learn together.
         actions:
-          - label: See Past Work
+          - label: See more
             url: /faq
             style: primary
             has_icon: true
