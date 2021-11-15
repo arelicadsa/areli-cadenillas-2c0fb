@@ -92,10 +92,9 @@ sections:
         media_width: sixty
       - title: User Interface
         subtitle: Never stop learning
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          I am studying and practicing to grow up my UI skills. Soon you will
+          see my projects here. Meanwhile, we can learn together.
         actions:
           - label: See Past Work
             url: /faq
