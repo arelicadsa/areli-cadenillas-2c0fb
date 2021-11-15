@@ -54,7 +54,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Mis servicios
-    subtitle: Lo que hago
+    subtitle: What I do
     features:
       - title: Plan de marketing
         subtitle: 'Website, blog, social media and more.'
