@@ -56,7 +56,7 @@ sections:
     title: Services
     subtitle: What I do
     features:
-      - title: Plan de marketing
+      - title: Marketing
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
